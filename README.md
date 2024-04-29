@@ -1,7 +1,7 @@
 # Steganography-App
 A Steganography App that hides text in an image
 
-Stenography app that you can use to hide text in an image file.
+![Logo](https://github.com/pwgit-create/Steganography-App/blob/master/pic_steno2.png)
 
 Anyone with this app can decode your secret text, but it is hard to notice that an image contains secret text.
 
